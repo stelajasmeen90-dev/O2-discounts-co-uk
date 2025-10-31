@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+}
+.navbar ul li{
+    display: inline;
+    padding: 8px 16px;
+    margin: 20px;
+}
+.navbar ul li a{
+    text-decoration: double;
+    color: rgb(248, 244, 244);
+}
+.card{
+    border: none;
+}
